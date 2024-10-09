@@ -1,4 +1,5 @@
 *.zip
-CIC-IDS-2017/
+CIC-IDS2017/
+*.csv
 *.pdf
 Toward-Generating-a-New-Intrusion-Detection-Dataset-and-Intrusion-Traffic-Characterization.pdf

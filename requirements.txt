@@ -1,0 +1,7 @@
+pytorch-metric-learning[with-hooks]
+faiss-gpu-cu11
+scikit-learn
+torchvision
+numpy
+tqdm
+pandas
