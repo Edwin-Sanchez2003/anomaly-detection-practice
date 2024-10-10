@@ -1,7 +1,7 @@
-pytorch-metric-learning[with-hooks]
-faiss-gpu-cu11
-scikit-learn
-torchvision
-numpy
-tqdm
-pandas
+pytorch-metric-learning[with-hooks]==0.9.84
+faiss-gpu-cu11==1.8.0.2
+scikit-learn==1.5.2
+torchvision==0.19.0
+numpy==1.26.4
+tqdm==4.66.5
+pandas==2.2.3
